@@ -1,0 +1,8 @@
+Lumia.Sense.dll
+Lumia.Sense.winmd
+Lumia.Sense.xml
+Lumia.Sense.Testing.dll
+Lumia.Sense.Testing.winmd
+Lumia.Sense.Testing.xml
+Lumia.Internal.HMBClient.dll
+Lumia.Internal.HMBClient.winmd

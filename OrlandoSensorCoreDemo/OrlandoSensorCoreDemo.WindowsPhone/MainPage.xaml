@@ -9,6 +9,13 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-
+        <StackPanel>
+            <TextBlock Name="tbVersion" FontSize="20"></TextBlock>
+            <TextBlock Name="tbMessage" FontSize="20"></TextBlock>
+            <TextBlock Name="tbWalk" FontSize="20"></TextBlock>
+            <TextBlock Name="tbWalkTime" FontSize="20"></TextBlock>
+            <TextBlock Name="tbRun"  FontSize="20"></TextBlock>
+            <TextBlock Name="tbRunTime"  FontSize="20"></TextBlock>
+        </StackPanel>
     </Grid>
 </Page>
